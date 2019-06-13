@@ -1,0 +1,8 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leodaiub/instagram-clone.git",
+  "author": "leodaiub <leodaiub@gmail.com>",
+  "license": "MIT"
+}
