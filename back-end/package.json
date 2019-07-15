@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "leonardo-daiub",
   "scripts": {
+    "start": "node index.js",
     "dev": "supervisor src/index.js"
   },
   "dependencies": {
@@ -15,6 +17,12 @@
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
     "supervisor": "^0.12.0"
+  },
+  "engines": {
+    "node": "10.16.0"
   }
 }
