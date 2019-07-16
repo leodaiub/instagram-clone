@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "leonardo-daiub",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "dev": "supervisor src/server.js"
   },
   "dependencies": {
