@@ -1,12 +1,12 @@
 {
   "name": "back-end",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "author": "leonardo-daiub",
   "scripts": {
-    "start": "node index.js",
-    "dev": "supervisor src/index.js"
+    "start": "node src/server.js",
+    "dev": "supervisor src/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
